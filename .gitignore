@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-=======
-*.txt
->>>>>>> 76e5df75fcf16cbecc0eee7143d1250ee39e2f89
-*.doc
-*.docx
-
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
