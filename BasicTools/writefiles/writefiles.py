@@ -1,7 +1,7 @@
 import jieba
 
 
-def write2txt(file, datalist, lenneed=True, MIN=8, MAX=32, listlen=True):
+def write2txt(file, datalist, lenneed=False, MIN=8, MAX=32, listlen=True):
     with open(file, 'w') as f:
         for line in datalist:
             if lenneed:
