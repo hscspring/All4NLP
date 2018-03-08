@@ -35,18 +35,20 @@ def readtext_raw(file, m=0):
     return data
 
 
-def readtext_clean(file):
+def readtext_clean(file, repeng=True, repnum=True):
     data = []
     with open(file, 'r') as f:
         for line in f.readlines():
             line = line.strip()
-            line = peng.sub(ENGLISH, line)
-            line = pnum.sub(DIGIT, line)
+            if repeng:
+                line = peng.sub(ENGLISH, line)
+            if repnum:
+                line = pnum.sub(DIGIT, line)
             line = line.replace(" ", "")
             line = line.replace("　　", "")
             line = line.replace(u"\u3000", "")
-            line = line.replace("“", "\"")
-            line = line.replace("”", "\"")
+            line = line.replace("\"", "“")
+            line = line.replace("”", "”")
             line = line.replace("……", "…")
             line = line.replace("…", "……")
             line = p_pairpuc.sub("", line)
