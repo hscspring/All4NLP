@@ -48,7 +48,7 @@ def readtext_clean(file, repeng=True, repnum=True):
             line = line.replace("　　", "")
             line = line.replace(u"\u3000", "")
             line = line.replace("\"", "“")
-            line = line.replace("”", "”")
+            line = line.replace("”", "“")
             line = line.replace("……", "…")
             line = line.replace("…", "……")
             line = p_pairpuc.sub("", line)
