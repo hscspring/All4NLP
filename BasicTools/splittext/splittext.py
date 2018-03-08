@@ -6,7 +6,6 @@ import jieba.posseg as pseg
 def split2sens(text):
     pstop = re.compile(rf'[。！？?!…]”*')
     sens = []
-    text = text.replace("……", "…")
     stoplist = pstop.findall(text)
     senlist = []
     for sen in pstop.split(text):
@@ -16,7 +15,6 @@ def split2sens(text):
     for i, sen in enumerate(senlist):
         try:
             sen = sen + stoplist[i]
-            sen = sen.replace("…", "……")
             sens.append(sen)
         except IndexError:
             continue
