@@ -50,7 +50,6 @@ def readtext_clean(file, repeng=True, repnum=True):
             line = line.replace("\"", "“")
             line = line.replace("”", "“")
             line = line.replace("……", "…")
-            line = line.replace("…", "……")
             line = p_pairpuc.sub("", line)
             if len(line) == 0:
                 continue
