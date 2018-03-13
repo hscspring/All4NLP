@@ -22,10 +22,10 @@ p_pairpuc = re.compile(r'''
     )''', re.UNICODE | re.VERBOSE)  # 标准对
 
 
-def readtext_raw(file, m=0):
+def readtext_raw(file, m=0, encoding=encode):
     data = []
     n = 0
-    with open(file, 'r') as f:
+    with open(file, 'r', encoding=encode) as f:
         for line in f.readlines():
             line = line.strip()
             data.append(line)
