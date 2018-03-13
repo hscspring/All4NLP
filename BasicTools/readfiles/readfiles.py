@@ -28,6 +28,8 @@ def readtext_raw(file, m=0, encoding='utf-8'):
     with open(file, 'r', encoding=encoding) as f:
         for line in f.readlines():
             line = line.strip()
+            if len(line) == 0:
+                continue
             data.append(line)
             n += 1
             if n > m and m != 0:
