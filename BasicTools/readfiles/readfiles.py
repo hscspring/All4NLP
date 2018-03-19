@@ -6,7 +6,7 @@ ENGLISH = 'E'
 pwhi = re.compile(rf'[\t\u3000 ]+')
 pnum = re.compile(rf'[１２３４５６７８９０\d]+[.%:：]*[１２３４５６７８９０\d]*')
 peng = re.compile(rf'[a-zA-Z]+')
-pzh = re.compile(rf'[\u2E80-\uFE4Fa-zA-Z\d、，。：；！？…《》（）\(\)『』「」]+')
+pnormal = re.compile(rf'[\u2E80-\uFE4Fa-zA-Z\d、，。：；！？…《》（）\(\)『』「」]+')
 # 替换掉类似（1）【1】这样的序号
 p_pairpuc = re.compile(r'''
     (?P<p_pairpuc>
@@ -43,7 +43,7 @@ def readtext_raw(file, m=0, encoding='utf-8'):
     return data
 
 
-def readtext_clean(file, reporder=True, repeng=False, repnum=True, onlyzh=True):
+def readtext_clean(file, reporder=True, repeng=False, repnum=True, normaltext=True):
     data = []
     with open(file, 'r') as f:
         for line in f.readlines():
@@ -66,8 +66,8 @@ def readtext_clean(file, reporder=True, repeng=False, repnum=True, onlyzh=True):
             line = line.replace("\"", "“")
             line = line.replace("”", "“")
             line = line.replace("……", "…")
-            if onlyzh:
-                line = "".join(pzh.findall(line))
+            if normaltext:
+                line = "".join(pnormal.findall(line))
             if len(line) == 0:
                 continue
             data.append(line)
