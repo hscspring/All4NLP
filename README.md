@@ -1,12 +1,31 @@
 # All4NLP
 
-## Framework
+## Framework & Toolkit
 
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
+  - deeplearning NLP with PyTorch
   - Text classifiers, Sequence taggers, Joint intent-slot model and Contextual intent-slot models
   - C++ server example
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
+    - Java library with Python wrappers
+    - speed, prodcution system use
+- [nltk/nltk: NLTK Source](https://github.com/nltk/nltk)
+    - education and research tool
+    - learning and exploring NLP concepts
+- [sloria/TextBlob: Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more.](https://github.com/sloria/textblob)
+    - on top of NLTK
+    - fast-prtotyping
+    - applications don't require highly performance
+- [spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
+    - fast
+    - streamlined
+    - production-ready
+    - [chartbeat-labs/textacy: NLP, before and after spaCy](https://github.com/chartbeat-labs/textacy)
+- [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
+    - topic modeling
+    - similarity detection
 - [rockingdingo/deepnlp: Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
+    - deeplearning NLP with tensorflow
 
 ## Task
 
@@ -35,3 +54,15 @@
 - **`2018 LSTM`**[递归神经网络  |  TensorFlow](https://www.tensorflow.org/tutorials/sequences/recurrent#language_modeling)
 
 ## Corpus
+
+
+
+
+
+
+
+
+
+## Reference
+
+- [5 Heroic Python NLP Libraries](https://elitedatascience.com/python-nlp-libraries)
