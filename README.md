@@ -2,7 +2,7 @@
 
 > 每个链接前面的时间是更新时间。
 
-## Framework & Toolkit
+## Framework
 
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
   - deeplearning NLP with PyTorch
@@ -58,10 +58,20 @@
 
 - **`2019 Word`**[JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
 
-## Readability
+### Readability
 
-- **`2019`**[shivam5992/textstat: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.](https://github.com/shivam5992/textstat)
-- **`2019`**[mholtzscher/spacy_readability: spaCy pipeline component for adding text readability meta data to Doc objects.](https://github.com/mholtzscher/spacy_readability)
+- **`2019 Kinds of indexes`**[shivam5992/textstat: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.](https://github.com/shivam5992/textstat)
+- **`2019 in Spacy`**[mholtzscher/spacy_readability: spaCy pipeline component for adding text readability meta data to Doc objects.](https://github.com/mholtzscher/spacy_readability)
+
+### Translation
+
+- **`2018 Microsoft Based on Phrase`**[Microsoft/NPMT: Towards Neural Phrase-based Machine Translation](https://github.com/Microsoft/NPMT) 
+- **`2019 Google Based on Seq2Seq and Attention`**[tensorflow/nmt: TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
+- **`2019 Google Based on Pure Attention`**[models/official/transformer at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/official/transformer)
+- **`2019 Facebook Based on CNN`**[pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
+- **`2019 Facebook Based on Unsupervised`**[facebookresearch/UnsupervisedMT: Phrase-Based & Neural Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
+- **`2019 DeepL Basedon CNN (Not Open Source)`**[DeepL Translator](https://www.deepl.com/translator) DeepL 基于 CNN 的翻译工具
+- **`2019 OpenNMT`**[OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
 
 ## Model
 
@@ -79,6 +89,11 @@
 
 - **`2018 LSTM`**[递归神经网络  |  TensorFlow](https://www.tensorflow.org/tutorials/sequences/recurrent#language_modeling)
 
+### SequenceModel
+
+- **`2019 Translation, Summarization, LM, TextGeneration`**[pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
+- **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`**[OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
+
 ## Corpus
 
 
@@ -86,9 +101,3 @@
 
 
 
-
-
-
-## Reference
-
-- [5 Heroic Python NLP Libraries](https://elitedatascience.com/python-nlp-libraries)
