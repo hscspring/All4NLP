@@ -1,5 +1,7 @@
 # All4NLP
 
+> 每个链接前面的时间是更新时间。
+
 ## Framework & Toolkit
 
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
@@ -21,9 +23,6 @@
     - streamlined
     - production-ready
     - [chartbeat-labs/textacy: NLP, before and after spaCy](https://github.com/chartbeat-labs/textacy)
-- [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
-    - topic modeling
-    - similarity detection
 - [rockingdingo/deepnlp: Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - deeplearning NLP with tensorflow
 
@@ -38,15 +37,42 @@
 
 - **`Collection`**[brightmart/text_classification: all kinds of text classification models and more with deep learning](https://github.com/brightmart/text_classification)
 
+### NLU & Information Extract
+
+- **`2019 Chatbot+IE `**[RasaHQ/rasa_nlu: 💬 Open source library for natural language understanding and machine learning-based dialogue management. - All things around intent classification, entity extraction and action predictions - DIY NLP and chatbot framwork.](https://github.com/RasaHQ/rasa_nlu)
+- **`2018 Chatbot+IE+Chi`**[crownpku/Rasa_NLU_Chi: Turn Chinese natural language into structured data 中文自然语言理解](https://github.com/crownpku/Rasa_NLU_Chi)
+- **`2018 QA`**[5hirish/adam_qas: ADAM - A Question Answering System. Inspired from IBM Watson](https://github.com/5hirish/adam_qas)
+
+### Similarity
+
+- **`2019 Doc+Sentence+Word`**[gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
+- **`2019 MinHash`**[ekzhu/datasketch: MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++](https://github.com/ekzhu/datasketch)
+- **`2019 LevenshteinDistance`**[ztane/python-Levenshtein: The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity](https://github.com/ztane/python-Levenshtein)
+- **`2018 Graph`**[caesar0301/graphsim: Graph similarity algorithms based on NetworkX.](https://github.com/caesar0301/graphsim)
+
+### Pinyin
+
+- **`2019 Pinyin`**[mozillazg/python-pinyin: 汉字转拼音 (pypinyin)](https://github.com/mozillazg/python-pinyin)
+
+### Visualization
+
+- **`2019 Word`**[JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
+
+## Readability
+
+- **`2019`**[shivam5992/textstat: python package to calculate readability statistics of a text object - paragraphs, sentences, articles.](https://github.com/shivam5992/textstat)
+- **`2019`**[mholtzscher/spacy_readability: spaCy pipeline component for adding text readability meta data to Doc objects.](https://github.com/mholtzscher/spacy_readability)
+
 ## Model
 
 ### Representation
 
-- **`2018 Word`**[google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
-- **`2018 Sentence`**[hanxiao/bert-as-service: Mapping a variable-length sentence to a fixed-length vector using BERT model](https://github.com/hanxiao/bert-as-service)
-- **`2018 Word`**[Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+- **`2019 Word`**[google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+- **`2019 Sentence`**[hanxiao/bert-as-service: Mapping a variable-length sentence to a fixed-length vector using BERT model](https://github.com/hanxiao/bert-as-service)
+- **`2018 Sentence`**[explosion/sense2vec: 🦆 Use NLP to go beyond vanilla word2vec](https://github.com/explosion/sense2vec)
+- **`2019 Sentence`**[gensim: models.doc2vec – Doc2vec paragraph embeddings](https://radimrehurek.com/gensim/models/doc2vec.html)
+- **`2019 Word`**[Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
 - **`2014 Sentence`**[klb3713/sentence2vec: Tools for mapping a sentence with arbitrary length to vector space](https://github.com/klb3713/sentence2vec)
-- **`2014 Sentence`**[gensim: models.doc2vec – Doc2vec paragraph embeddings](https://radimrehurek.com/gensim/models/doc2vec.html)
 - **`Question`**[如何用 word2vec 计算两个句子之间的相似度？ - 知乎](https://www.zhihu.com/question/29978268)
 
 ### LanguageModel
