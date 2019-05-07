@@ -37,11 +37,17 @@
 
 - **`Collection`**[brightmart/text_classification: all kinds of text classification models and more with deep learning](https://github.com/brightmart/text_classification)
 
-### NLU & Information Extract
+### NLU & IE
 
-- **`2019 Chatbot+IE `**[RasaHQ/rasa_nlu: 💬 Open source library for natural language understanding and machine learning-based dialogue management. - All things around intent classification, entity extraction and action predictions - DIY NLP and chatbot framwork.](https://github.com/RasaHQ/rasa_nlu)
-- **`2018 Chatbot+IE+Chi`**[crownpku/Rasa_NLU_Chi: Turn Chinese natural language into structured data 中文自然语言理解](https://github.com/crownpku/Rasa_NLU_Chi)
-- **`2018 QA`**[5hirish/adam_qas: ADAM - A Question Answering System. Inspired from IBM Watson](https://github.com/5hirish/adam_qas)
+- **`2019 Framework `**[RasaHQ/rasa_nlu: 💬 Open source library for natural language understanding and machine learning-based dialogue management. - All things around intent classification, entity extraction and action predictions - DIY NLP and chatbot framwork.](https://github.com/RasaHQ/rasa_nlu)
+- **`2018 Chi`**[crownpku/Rasa_NLU_Chi: Turn Chinese natural language into structured data 中文自然语言理解](https://github.com/crownpku/Rasa_NLU_Chi)
+- **`2019 Toolkit `**[snipsco/snips-nlu: Snips Python library to extract meaning from text](https://github.com/snipsco/snips-nlu)
+
+
+### QA
+
+
+- **`2018`**[5hirish/adam_qas: ADAM - A Question Answering System. Inspired from IBM Watson](https://github.com/5hirish/adam_qas)
 
 ### Similarity
 
@@ -95,9 +101,5 @@
 - **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`**[OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
 
 ## Corpus
-
-
-
-
 
 
