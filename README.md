@@ -8,6 +8,9 @@
   - deeplearning NLP with PyTorch
   - Text classifiers, Sequence taggers, Joint intent-slot model and Contextual intent-slot models
   - C++ server example
+- [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
+    - NER, POS, sense disambiguation and classification
+    - on top of PyTorch
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
     - Java library with Python wrappers
     - speed, prodcution system use
@@ -32,6 +35,7 @@
 
 - **`2018 BenchMark`**[geek-ai/Texygen: A text generation benchmarking platform](https://github.com/geek-ai/Texygen)
 - **`2018 RNN`**[docs/text_generation.ipynb at master · tensorflow/docs](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/sequences/text_generation.ipynb)
+- **`2019 Tookit on top of TF`** [asyml/texar: Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
 
 ### Classification
 
@@ -63,6 +67,7 @@
 ### Visualization
 
 - **`2019 Word`**[JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
+- **`2019 Bert GPT`** [jessevig/bertviz: Tool for visualizing attention in the Transformer model (BERT and OpenAI GPT-2)](https://github.com/jessevig/bertviz)
 
 ### Readability
 
