@@ -105,6 +105,34 @@
 - **`2019 Translation, Summarization, LM, TextGeneration`**[pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
 - **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`**[OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
 
-## Corpus
+## Experts
 
+- [Michael Collins](http://www.cs.columbia.edu/~mcollins/), [Michael Collins - Google Scholar Citations](https://scholar.google.com/citations?user=DxoenfgAAAAJ&hl=en) ☆
+    - [Terry Koo](http://people.csail.mit.edu/maestro/), [Terry Koo - Google Scholar Citations](https://scholar.google.com/citations?user=cSTLkv8AAAAJ&hl=en)
+    - [Percy Liang](https://cs.stanford.edu/~pliang/), [Percy Liang - Google Scholar Citations](https://scholar.google.com/citations?user=pouyVyUAAAAJ&hl=en)
+    - [Luke Zettlemoyer | Computer Science & Engineering](https://www.cs.washington.edu/people/faculty/lsz), [Luke Zettlemoyer - Google Scholar Citations](https://scholar.google.com/citations?user=UjpbO6IAAAAJ&hl=en)
+- [Jason Eisner - Home Page (JHU)](https://www.cs.jhu.edu/~jason/), [Jason Eisner - Google Scholar Citations](https://scholar.google.com/citations?user=tjb2UccAAAAJ&hl=en) ☆
+    - [Noah Smith](https://homes.cs.washington.edu/~nasmith/), [Noah A. Smith - Google Scholar Citations](https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en), [Noah A. Smith - Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=TjdFs3EAAAAJ&view_op=list_works&sortby=pubdate)
+- [David Yarowsky](http://www.cs.jhu.edu/~yarowsky/), [David Yarowsky - Google Scholar Citations](https://scholar.google.com/citations?user=gaO-vS4AAAAJ&hl=en)
 
+- [Dan Jurafsky - Home Page](https://web.stanford.edu/~jurafsky/), [Dan Jurafsky - Google Scholar Citations](https://scholar.google.com/citations?user=uZg9l58AAAAJ&hl=en) ☆
+- [Christopher Manning, Stanford NLP](https://nlp.stanford.edu/manning/), [Christopher D Manning - Google Scholar Citations](https://scholar.google.com/citations?user=1zmDOdwAAAAJ&hl=en) ☆
+    - [Richard Socher - Home Page](https://www.socher.org/), [Richard Socher - Google Scholar Citations](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en) ☆
+- [Dan Klein's Home Page](https://people.eecs.berkeley.edu/~klein/), [The Berkeley NLP Group](http://nlp.cs.berkeley.edu/publications.shtml) ☆
+- [Dan Roth - Main Page](http://l2r.cs.uiuc.edu/), [Dan Roth - Google Scholar Citations](https://scholar.google.com/citations?user=E-bpPWgAAAAJ&hl=en) ☆
+- [ChengXiang Zhai - Home Page](http://czhai.cs.illinois.edu/), [ChengXiang Zhai - Google Scholar Citations](https://scholar.google.com/citations?user=YU-baPIAAAAJ&hl=en)
+- [Eugene Charniak's Home Page](http://cs.brown.edu/people/echarnia/), [Eugene Charniak - Google Scholar Citations](https://scholar.google.com/citations?user=_XHudx4AAAAJ&hl=en)
+- [Joakim Nivre's Home Page](https://cl.lingfil.uu.se/~nivre/), [Joakim Nivre - Google Scholar Citations](https://scholar.google.co.uk/citations?user=lLBHtFUAAAAJ&hl=en) ☆
+- [Philipp Koehn](http://www.cs.jhu.edu/~phi/), [Philipp Koehn - Google Scholar Citations](https://scholar.google.com/citations?user=OsIZgIYAAAAJ&hl=en)
+- [James H. Martin](http://www.cs.colorado.edu/~martin/), [James H. Martin - Google Scholar Citations](https://scholar.google.com/citations?user=ZVxO6IIAAAAJ&hl=en)
+
+- [Julia Hirschberg](http://www.cs.columbia.edu/~julia/), [Julia Hirschberg - Google Scholar Citations](https://scholar.google.com/citations?user=Qrd7FCoAAAAJ&hl=en)
+
+- [Fernando Pereira – Google AI](https://ai.google/research/people/author1092), [Fernando Pereira - Google Scholar Citations](https://scholar.google.com/citations?user=qWDmIgIAAAAJ&hl=en) ☆
+- [ryan mcdonald](https://ryanmcd.github.io/), [Ryan McDonald - Google Scholar Citations](https://scholar.google.com/citations?user=i05BhUgAAAAJ&hl=en)
+- [Slav Petrov - Слав Петров](http://www.petrovi.de/), [Slav Petrov - Google Scholar Citations](https://scholar.google.com/citations?user=ipb9-GEAAAAJ&hl=en) ☆
+- [Kenneth Church HomePage](http://www.cs.jhu.edu/~kchurch/), [Kenneth Ward Church - Google Scholar Citations](https://scholar.google.com/citations?user=E6aqGvYAAAAJ&hl=en)
+
+## References
+
+- [NLP（自然语言处理）界有哪些神级人物？ - 知乎](https://www.zhihu.com/question/32318281)
