@@ -11,6 +11,8 @@
 - [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
     - NER, POS, sense disambiguation and classification
     - on top of PyTorch
+- [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
+    - Mathematical Language Understanding; Story, Question and Answer; Language Modeling; Sentiment Analysis; Speech Recognition; Summarization; Translation
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
     - Java library with Python wrappers
     - speed, prodcution system use
