@@ -11,8 +11,6 @@
 - [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
     - NER, POS, sense disambiguation and classification
     - on top of PyTorch
-- [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
-    - Mathematical Language Understanding; Story, Question and Answer; Language Modeling; Sentiment Analysis; Speech Recognition; Summarization; Translation
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
     - Java library with Python wrappers
     - speed, prodcution system use
@@ -106,6 +104,7 @@
 
 - **`2019 Translation, Summarization, LM, TextGeneration`**[pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
 - **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`**[OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
+- **`2019 QA, LM, Sentiment, SpeechRecognition, Summarization, MT`**[tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
 
 ## Experts
 
@@ -116,7 +115,6 @@
 - [Jason Eisner - Home Page (JHU)](https://www.cs.jhu.edu/~jason/), [Jason Eisner - Google Scholar Citations](https://scholar.google.com/citations?user=tjb2UccAAAAJ&hl=en) ☆
     - [Noah Smith](https://homes.cs.washington.edu/~nasmith/), [Noah A. Smith - Google Scholar Citations](https://scholar.google.com/citations?user=TjdFs3EAAAAJ&hl=en), [Noah A. Smith - Google Scholar Citations](https://scholar.google.com/citations?hl=en&user=TjdFs3EAAAAJ&view_op=list_works&sortby=pubdate)
 - [David Yarowsky](http://www.cs.jhu.edu/~yarowsky/), [David Yarowsky - Google Scholar Citations](https://scholar.google.com/citations?user=gaO-vS4AAAAJ&hl=en)
-
 - [Dan Jurafsky - Home Page](https://web.stanford.edu/~jurafsky/), [Dan Jurafsky - Google Scholar Citations](https://scholar.google.com/citations?user=uZg9l58AAAAJ&hl=en) ☆
 - [Christopher Manning, Stanford NLP](https://nlp.stanford.edu/manning/), [Christopher D Manning - Google Scholar Citations](https://scholar.google.com/citations?user=1zmDOdwAAAAJ&hl=en) ☆
     - [Richard Socher - Home Page](https://www.socher.org/), [Richard Socher - Google Scholar Citations](https://scholar.google.com/citations?user=FaOcyfMAAAAJ&hl=en) ☆
@@ -127,9 +125,7 @@
 - [Joakim Nivre's Home Page](https://cl.lingfil.uu.se/~nivre/), [Joakim Nivre - Google Scholar Citations](https://scholar.google.co.uk/citations?user=lLBHtFUAAAAJ&hl=en) ☆
 - [Philipp Koehn](http://www.cs.jhu.edu/~phi/), [Philipp Koehn - Google Scholar Citations](https://scholar.google.com/citations?user=OsIZgIYAAAAJ&hl=en)
 - [James H. Martin](http://www.cs.colorado.edu/~martin/), [James H. Martin - Google Scholar Citations](https://scholar.google.com/citations?user=ZVxO6IIAAAAJ&hl=en)
-
 - [Julia Hirschberg](http://www.cs.columbia.edu/~julia/), [Julia Hirschberg - Google Scholar Citations](https://scholar.google.com/citations?user=Qrd7FCoAAAAJ&hl=en)
-
 - [Fernando Pereira – Google AI](https://ai.google/research/people/author1092), [Fernando Pereira - Google Scholar Citations](https://scholar.google.com/citations?user=qWDmIgIAAAAJ&hl=en) ☆
 - [ryan mcdonald](https://ryanmcd.github.io/), [Ryan McDonald - Google Scholar Citations](https://scholar.google.com/citations?user=i05BhUgAAAAJ&hl=en)
 - [Slav Petrov - Слав Петров](http://www.petrovi.de/), [Slav Petrov - Google Scholar Citations](https://scholar.google.com/citations?user=ipb9-GEAAAAJ&hl=en) ☆
