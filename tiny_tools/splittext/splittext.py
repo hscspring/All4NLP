@@ -1,7 +1,4 @@
 import re
-import jieba
-import jieba.posseg as pseg
-
 
 def split2sens(text):
     pstop = re.compile(rf'[。！？?!…]”*')
@@ -20,14 +17,3 @@ def split2sens(text):
             continue
     return sens
 
-
-def cut2words(text):
-    return jieba.lcut(text)
-
-def cut2wpos(text, pos=None):
-    data = []
-    for w,p in pseg.cut(text):
-        if p == pos:
-            continue
-        data.append((w,p))
-    return data
