@@ -102,3 +102,6 @@ ENV/
 
 # Yam
 *yam_achieve*
+
+Representation/glue_data/
+Representation/cola_public/
