@@ -68,6 +68,7 @@
 
 - **`2019 Word`** [JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
 - **`2019 Bert GPT`** [jessevig/bertviz: Tool for visualizing attention in the Transformer model (BERT and OpenAI GPT-2)](https://github.com/jessevig/bertviz)
+- **`2019 MLC`** [marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 
 ### Readability
 
@@ -117,6 +118,10 @@
 - **`2019 Translation, Summarization, LM, TextGeneration`** [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
 - **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`** [OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
 - **`2019 QA, LM, Sentiment, SpeechRecognition, Summarization, MT`** [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
+
+## Tricks
+
+- **`2017`** [Deep Learning for NLP Best Practices](https://ruder.io/deep-learning-nlp-best-practices/index.html)
 
 ## Experts
 
