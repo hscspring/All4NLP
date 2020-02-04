@@ -4,6 +4,10 @@
 
 ## Framework
 
+- [OpenNMT - Open-Source Neural Machine Translation](https://opennmt.net/)
+    - Machine translation and neural sequence learning
+    - PyTorch + Tensorflow
+
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
   - deeplearning NLP with PyTorch
   - Text classifiers, Sequence taggers, Joint intent-slot model and Contextual intent-slot models
@@ -11,6 +15,8 @@
 - [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
     - NER, POS, sense disambiguation and classification
     - on top of PyTorch
+- [BrikerMan/Kashgari: Kashgari is a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.](https://github.com/BrikerMan/Kashgari)
+    - Text labeling, classification, Pre-trained
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
     - Java library with Python wrappers
     - speed, prodcution system use
@@ -69,6 +75,12 @@
 - **`2019 Word`** [JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
 - **`2019 Bert GPT`** [jessevig/bertviz: Tool for visualizing attention in the Transformer model (BERT and OpenAI GPT-2)](https://github.com/jessevig/bertviz)
 - **`2019 MLC`** [marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
+- **`2019 Graph Visualization Framework`** [antvis/G6: ♾ A Graph Visualization Framework in JavaScript](https://github.com/antvis/g6)
+- **`2017 Neo4j D3`** [eisman/neo4jd3: Neo4j graph visualization using D3.js](https://github.com/eisman/neo4jd3)
+- **`2019 Neo4j browser`** [neo4j-contrib/neovis.js: Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.](https://github.com/neo4j-contrib/neovis.js)
+- **`2019 Neo4j 3D`** [jexp/neo4j-3d-force-graph: Experiments with Neo4j & 3d-force-graph https://github.com/vasturiano/3d-force-graph](https://github.com/jexp/neo4j-3d-force-graph)
+- **`2019 Interactive Graphvizz`** [magjac/graphviz-visual-editor: A web application for interactive visual editing of Graphviz graphs described in the DOT language.](https://github.com/magjac/graphviz-visual-editor)
+- **`2019 graphviz Python`** [mapio/GraphvizAnim: A tool to create animated graph visualizations, based on graphviz.](https://github.com/mapio/GraphvizAnim)
 
 ### Readability
 
@@ -88,6 +100,10 @@
 ## Model
 
 ### Pre-trained
+
+- **`2019 GPT2+Chinese`** [Morizeyao/GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese)
+
+- **`2019 Bert-wwm`** [ymcui/Chinese-BERT-wwm: Pre-Training with Whole Word Masking for Chinese BERT（中文 BERT-wwm 系列模型）](https://github.com/ymcui/Chinese-BERT-wwm)
 
 - **`2019 Toolkit`** [huggingface/pytorch-transformers: 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
 - **`2019 MASK`** [google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
@@ -122,6 +138,11 @@
 ## Tricks
 
 - **`2017`** [Deep Learning for NLP Best Practices](https://ruder.io/deep-learning-nlp-best-practices/index.html)
+
+## Corpus
+
+- [离线百度百科下载（2012 图文版）](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=9599&highlight=百度百科)
+- 百度百科 2012 图文版：https://pan.baidu.com/s/1epjGg
 
 ## Experts
 
