@@ -7,7 +7,6 @@
 - [OpenNMT - Open-Source Neural Machine Translation](https://opennmt.net/)
     - Machine translation and neural sequence learning
     - PyTorch + Tensorflow
-
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
   - deeplearning NLP with PyTorch
   - Text classifiers, Sequence taggers, Joint intent-slot model and Contextual intent-slot models
@@ -15,8 +14,15 @@
 - [zalandoresearch/flair: A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
     - NER, POS, sense disambiguation and classification
     - on top of PyTorch
+- [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
+    - Seq2Seq modeling
+    - on top of PyTorch
 - [BrikerMan/Kashgari: Kashgari is a Production-ready NLP Transfer learning framework for text-labeling and text-classification, includes Word2Vec, BERT, and GPT2 Language Embedding.](https://github.com/BrikerMan/Kashgari)
     - Text labeling, classification, Pre-trained
+    - on top of Tensorflow
+- [asyml/texar: Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow](https://github.com/asyml/texar)
+    - NLP Toolkit
+    - on top of tTensorflow
 - [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
     - Java library with Python wrappers
     - speed, prodcution system use
@@ -143,6 +149,14 @@
 
 - [离线百度百科下载（2012 图文版）](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=9599&highlight=百度百科)
 - 百度百科 2012 图文版：https://pan.baidu.com/s/1epjGg
+
+## Learn Code Here
+
+- [google/trax: Trax — your path to advanced deep learning](https://github.com/google/trax)
+- [tensorflow/models: Models and examples built with TensorFlow](https://github.com/tensorflow/models)
+- [huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
+- [OpenNMT/OpenNMT-py: Open Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
+- [OpenNMT/OpenNMT-tf: Neural machine translation and sequence learning using TensorFlow](https://github.com/OpenNMT/OpenNMT-tf)
 
 ## Experts
 
