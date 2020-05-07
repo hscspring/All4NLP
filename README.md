@@ -22,9 +22,9 @@
     - on top of Tensorflow
 - [asyml/texar: Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow](https://github.com/asyml/texar)
     - NLP Toolkit
-    - on top of tTensorflow
-- [stanfordnlp/stanfordnlp: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
-    - Java library with Python wrappers
+    - on top of Tensorflow
+- [stanfordnlp/stanza: Official Stanford NLP Python Library for Many Human Languages](https://github.com/stanfordnlp/stanfordnlp)
+    - on top of Pytorch
     - speed, prodcution system use
 - [nltk/nltk: NLTK Source](https://github.com/nltk/nltk)
     - education and research tool
@@ -40,6 +40,9 @@
     - [chartbeat-labs/textacy: NLP, before and after spaCy](https://github.com/chartbeat-labs/textacy)
 - [rockingdingo/deepnlp: Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
     - deeplearning NLP with tensorflow
+
+
+
 
 ## Task
 
@@ -145,18 +148,39 @@
 
 - **`2017`** [Deep Learning for NLP Best Practices](https://ruder.io/deep-learning-nlp-best-practices/index.html)
 
-## Corpus
+## Text First
+
+- [pytorch/text: Data loaders and abstractions for text and NLP](https://github.com/pytorch/text)
+- [tensorflow/text: Making text a first-class citizen in TensorFlow.](https://github.com/tensorflow/text)
+- [textpipe/textpipe: Textpipe: clean and extract metadata from text](https://github.com/textpipe/textpipe)
+
+## Tokenizer
+
+- [OpenNMT/Tokenizer: Fast and customizable text tokenization library with BPE and SentencePiece support](https://github.com/OpenNMT/Tokenizer)
+- [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece)
+- [huggingface/tokenizers: 💥Fast State-of-the-Art Tokenizers optimized for Research and Production](https://github.com/huggingface/tokenizers)
+
+## Resource
 
 - [离线百度百科下载（2012 图文版）](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=9599&highlight=百度百科)
-- 百度百科 2012 图文版：https://pan.baidu.com/s/1epjGg
+- [百度百科 2012 图文版](https://pan.baidu.com/s/1epjGg)
+- [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
+- [Kinds of Resources](https://github.com/fighting41love/funNLP)
+- [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+- [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
+- [CLUEbenchmark/CLUE: 中文任务基准测评](https://github.com/CLUEbenchmark/CLUE)
 
 ## Learn Code Here
 
 - [google/trax: Trax — your path to advanced deep learning](https://github.com/google/trax)
-- [tensorflow/models: Models and examples built with TensorFlow](https://github.com/tensorflow/models)
-- [huggingface/transformers: 🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.](https://github.com/huggingface/transformers)
-- [OpenNMT/OpenNMT-py: Open Source Neural Machine Translation in PyTorch](https://github.com/OpenNMT/OpenNMT-py)
-- [OpenNMT/OpenNMT-tf: Neural machine translation and sequence learning using TensorFlow](https://github.com/OpenNMT/OpenNMT-tf)
+- [tensorflow/models](https://github.com/tensorflow/models)
+- [Transformers](https://github.com/huggingface/transformers)
+- [OpenNMT/OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py)
+- [OpenNMT/OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf)
+
+## Research
+
+- [NLP Progress](https://github.com/sebastianruder/NLP-progress)
 
 ## Experts
 
