@@ -48,6 +48,8 @@
 
 ### Text Generation
 
+- **`2020 Awesome`**  [tokenmill/awesome-nlg: A curated list of resources dedicated to Natural Language Generation (NLG)](https://github.com/tokenmill/awesome-nlg)
+
 - **`2018 BenchMark`** [geek-ai/Texygen: A text generation benchmarking platform](https://github.com/geek-ai/Texygen)
 - **`2018 RNN`** [docs/text_generation.ipynb at master · tensorflow/docs](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/sequences/text_generation.ipynb)
 - **`2019 Tookit on top of TF`** [asyml/texar: Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
@@ -105,6 +107,10 @@
 - **`2019 Facebook Based on Unsupervised`** [facebookresearch/UnsupervisedMT: Phrase-Based & Neural Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 - **`2019 DeepL Basedon CNN (Not Open Source)`** [DeepL Translator](https://www.deepl.com/translator) DeepL 基于 CNN 的翻译工具
 - **`2019 OpenNMT`** [OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
+
+### Style Transfer
+
+- **`2020 Awesome`** [fuzhenxin/Style-Transfer-in-Text: Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 
 ## Model
 
