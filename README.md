@@ -119,9 +119,7 @@
 ### Pre-trained
 
 - **`2019 GPT2+Chinese`** [Morizeyao/GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese)
-
 - **`2019 Bert-wwm`** [ymcui/Chinese-BERT-wwm: Pre-Training with Whole Word Masking for Chinese BERT（中文 BERT-wwm 系列模型）](https://github.com/ymcui/Chinese-BERT-wwm)
-
 - **`2019 Toolkit`** [huggingface/pytorch-transformers: 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
 - **`2019 MASK`** [google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
 - **`2019 Permutation`** [zihangdai/xlnet: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://github.com/zihangdai/xlnet)
