@@ -100,6 +100,8 @@
 
 ### Translation
 
+- **`2019 XLM`** [facebookresearch/XLM: PyTorch original implementation of Cross-lingual Language Model Pretraining.](https://github.com/facebookresearch/XLM)
+
 - **`2018 Microsoft Based on Phrase`** [Microsoft/NPMT: Towards Neural Phrase-based Machine Translation](https://github.com/Microsoft/NPMT) 
 - **`2019 Google Based on Seq2Seq and Attention`** [tensorflow/nmt: TensorFlow Neural Machine Translation Tutorial](https://github.com/tensorflow/nmt)
 - **`2019 Google Based on Pure Attention`** [models/official/transformer at master · tensorflow/models](https://github.com/tensorflow/models/tree/master/official/transformer)
@@ -146,9 +148,11 @@
 
 ### SequenceModel
 
-- **`2019 Translation, Summarization, LM, TextGeneration`** [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
-- **`2019 Seq2Seq, SeqTagging, SeqClassification, LM`** [OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
-- **`2019 QA, LM, Sentiment, SpeechRecognition, Summarization, MT`** [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
+- **`2020 T5`** [google-research/text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
+
+- **`2020 FairSeq`** [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
+- **`2020 OpenNMT`** [OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
+- **`2020 T2T`** [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
 
 ## Tricks
 
