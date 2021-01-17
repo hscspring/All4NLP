@@ -120,6 +120,7 @@
 
 ### Visualization
 
+- **`2020 Explain`** [jalammar/ecco: Visualize and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2).](https://github.com/jalammar/ecco)
 - **`2019 Word`** [JasonKessler/scattertext: Beautiful visualizations of how language differs among document types.](https://github.com/JasonKessler/scattertext)
 - **`2019 Bert GPT`** [jessevig/bertviz: Tool for visualizing attention in the Transformer model (BERT and OpenAI GPT-2)](https://github.com/jessevig/bertviz)
 - **`2019 MLC`** [marcotcr/lime: Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
