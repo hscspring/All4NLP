@@ -1,12 +1,7 @@
 # All4NLP
 
-> 每个链接前面的时间是更新时间。
+## Framework & Toolkit
 
-## Framework
-
-- [OpenNMT - Open-Source Neural Machine Translation](https://opennmt.net/)
-    - Machine translation and neural sequence learning
-    - PyTorch + Tensorflow
 - [facebookresearch/pytext: A natural language modeling framework based on PyTorch](https://github.com/facebookresearch/pytext)
   - deeplearning NLP with PyTorch
   - Text classifiers, Sequence taggers, Joint intent-slot model and Contextual intent-slot models
@@ -38,16 +33,53 @@
     - streamlined
     - production-ready
     - [chartbeat-labs/textacy: NLP, before and after spaCy](https://github.com/chartbeat-labs/textacy)
-- [rockingdingo/deepnlp: Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
-    - deeplearning NLP with tensorflow
 
 
+### Tokenizer
+
+- [OpenNMT/Tokenizer: Fast and customizable text tokenization library with BPE and SentencePiece support](https://github.com/OpenNMT/Tokenizer)
+- [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece)
+- [huggingface/tokenizers: 💥Fast State-of-the-Art Tokenizers optimized for Research and Production](https://github.com/huggingface/tokenizers)
+
+### Seq2Seq
+
+- [OpenNMT - Open-Source Neural Machine Translation](https://opennmt.net/)
+- [google-research/text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
+- [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
 
 
-## Task
+### Text First
+
+- [pytorch/text: Data loaders and abstractions for text and NLP](https://github.com/pytorch/text)
+- [tensorflow/text: Making text a first-class citizen in TensorFlow.](https://github.com/tensorflow/text)
+- [textpipe/textpipe: Textpipe: clean and extract metadata from text](https://github.com/textpipe/textpipe)
+
+
+## Task & Model
+
+### Language Model
+
+- **`2020 Chinese-Bert`** [CLUEbenchmark/CLUEPretrainedModels](https://github.com/CLUEbenchmark/CLUEPretrainedModels)
+- **`2019 GPT2+Chinese`** [Morizeyao/GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese)
+- **`2019 Bert-wwm`** [ymcui/Chinese-BERT-wwm: Pre-Training with Whole Word Masking for Chinese BERT（中文 BERT-wwm 系列模型）](https://github.com/ymcui/Chinese-BERT-wwm)
+- **`2019 Toolkit`** [huggingface/pytorch-transformers: 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
+- **`2019 MASK`** [google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+- **`2019 Permutation`** [zihangdai/xlnet: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://github.com/zihangdai/xlnet)
+- **`2019 MultiTask`** [PaddlePaddle/ERNIE: An Implementation of ERNIE For Language Understanding](https://github.com/PaddlePaddle/ERNIE)
+- **`2019 Attention`** [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl)
+- **`2019 LM `** [openai/gpt-2: Code for the paper "Language Models are Unsupervised Multitask Learners"](https://github.com/openai/gpt-2)
+- **`2018 TwoLMs`** [ELMo: Deep contextualized word representations](https://allennlp.org/elmo)
+- **`2018 Co-occurrence`** [stanfordnlp/GloVe: GloVe model for distributed word representation](https://github.com/stanfordnlp/GloVe)
+- **`2019`** [facebookresearch/fastText: Library for fast text representation and classification.](https://github.com/facebookresearch/fastText/)
+- **`2019 Word2vec`** [Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
+- **`2018` Word2vec** [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
+- **`2018 LSTM`** [递归神经网络  |  TensorFlow](https://www.tensorflow.org/tutorials/sequences/recurrent#language_modeling)
+- **`2013`** [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/word2vec/)
+
 
 ### Text Generation
 
+- **`2020 Toolkit`** [RUCAIBox/TextBox: TextBox is an open-source library for building text generation system.](https://github.com/RUCAIBox/TextBox)
 - **`2020 Awesome`**  [tokenmill/awesome-nlg: A curated list of resources dedicated to Natural Language Generation (NLG)](https://github.com/tokenmill/awesome-nlg)
 
 - **`2018 BenchMark`** [geek-ai/Texygen: A text generation benchmarking platform](https://github.com/geek-ai/Texygen)
@@ -67,11 +99,16 @@
 
 ### QA
 
-
+- **`2020 Toolkit`** [RUCAIBox/CRSLab: CRSLab is an open-source toolkit for building Conversational Recommender System (CRS).](https://github.com/RUCAIBox/CRSLab)
 - **`2018`** [5hirish/adam_qas: ADAM - A Question Answering System. Inspired from IBM Watson](https://github.com/5hirish/adam_qas)
 
 ### Similarity
 
+- **`2019 Sentence`** [UKPLab/sentence-transformers: Sentence Embeddings with BERT & XLNet](https://github.com/UKPLab/sentence-transformers)
+- **`2019 Sentence`** [hanxiao/bert-as-service: Mapping a variable-length sentence to a fixed-length vector using BERT model](https://github.com/hanxiao/bert-as-service)
+- **`2018 Sentence`** [explosion/sense2vec: 🦆 Use NLP to go beyond vanilla word2vec](https://github.com/explosion/sense2vec)
+- **`2019 Sentence`** [gensim: models.doc2vec – Doc2vec paragraph embeddings](https://radimrehurek.com/gensim/models/doc2vec.html)
+- **`2014 Sentence`** [klb3713/sentence2vec: Tools for mapping a sentence with arbitrary length to vector space](https://github.com/klb3713/sentence2vec)
 - **`2019 Doc+Sentence+Word`** [gensim: Topic modelling for humans](https://radimrehurek.com/gensim/)
 - **`2019 MinHash`** [ekzhu/datasketch: MinHash, LSH, LSH Forest, Weighted MinHash, HyperLogLog, HyperLogLog++](https://github.com/ekzhu/datasketch)
 - **`2019 LevenshteinDistance`** [ztane/python-Levenshtein: The Levenshtein Python C extension module contains functions for fast computation of Levenshtein distance and string similarity](https://github.com/ztane/python-Levenshtein)
@@ -114,69 +151,26 @@
 
 - **`2020 Awesome`** [fuzhenxin/Style-Transfer-in-Text: Paper List for Style Transfer in Text](https://github.com/fuzhenxin/Style-Transfer-in-Text)
 
-## Model
-
-### Pre-trained
-
-- **`2019 GPT2+Chinese`** [Morizeyao/GPT2-Chinese: Chinese version of GPT2 training code, using BERT tokenizer.](https://github.com/Morizeyao/GPT2-Chinese)
-- **`2019 Bert-wwm`** [ymcui/Chinese-BERT-wwm: Pre-Training with Whole Word Masking for Chinese BERT（中文 BERT-wwm 系列模型）](https://github.com/ymcui/Chinese-BERT-wwm)
-- **`2019 Toolkit`** [huggingface/pytorch-transformers: 👾 A library of state-of-the-art pretrained models for Natural Language Processing (NLP)](https://github.com/huggingface/pytorch-transformers)
-- **`2019 MASK`** [google-research/bert: TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
-- **`2019 Permutation`** [zihangdai/xlnet: XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://github.com/zihangdai/xlnet)
-- **`2019 MultiTask`** [PaddlePaddle/ERNIE: An Implementation of ERNIE For Language Understanding](https://github.com/PaddlePaddle/ERNIE)
-- **`2019 Attention`** [kimiyoung/transformer-xl](https://github.com/kimiyoung/transformer-xl)
-- **`2019 LM `** [openai/gpt-2: Code for the paper "Language Models are Unsupervised Multitask Learners"](https://github.com/openai/gpt-2)
-- **`2018 TwoLMs`** [ELMo: Deep contextualized word representations](https://allennlp.org/elmo)
-- **`2018 Co-occurrence`** [stanfordnlp/GloVe: GloVe model for distributed word representation](https://github.com/stanfordnlp/GloVe)
-- **`2019`** [facebookresearch/fastText: Library for fast text representation and classification.](https://github.com/facebookresearch/fastText/)
-- **`2013`** [Google Code Archive - Long-term storage for Google Code Project Hosting.](https://code.google.com/archive/p/word2vec/)
-
-### Representation
-
-- **`2019 Sentence`** [hanxiao/bert-as-service: Mapping a variable-length sentence to a fixed-length vector using BERT model](https://github.com/hanxiao/bert-as-service)
-- **`2018 Sentence`** [explosion/sense2vec: 🦆 Use NLP to go beyond vanilla word2vec](https://github.com/explosion/sense2vec)
-- **`2019 Sentence`** [gensim: models.doc2vec – Doc2vec paragraph embeddings](https://radimrehurek.com/gensim/models/doc2vec.html)
-- **`2019 Word`** [Embedding/Chinese-Word-Vectors: 100+ Chinese Word Vectors 上百种预训练中文词向量](https://github.com/Embedding/Chinese-Word-Vectors)
-- **`2014 Sentence`** [klb3713/sentence2vec: Tools for mapping a sentence with arbitrary length to vector space](https://github.com/klb3713/sentence2vec)
-- **`Question`** [如何用 word2vec 计算两个句子之间的相似度？ - 知乎](https://www.zhihu.com/question/29978268)
-
-### LanguageModel
-
-- **`2018 LSTM`** [递归神经网络  |  TensorFlow](https://www.tensorflow.org/tutorials/sequences/recurrent#language_modeling)
-
-### SequenceModel
-
-- **`2020 T5`** [google-research/text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
-
-- **`2020 FairSeq`** [pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.](https://github.com/pytorch/fairseq)
-- **`2020 OpenNMT`** [OpenNMT/OpenNMT: Open Source Neural Machine Translation](https://github.com/OpenNMT/OpenNMT)
-- **`2020 T2T`** [tensorflow/tensor2tensor: Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.](https://github.com/tensorflow/tensor2tensor/)
 
 ## Tricks
 
+- **`2020`** [让PyTorch训练速度更快，你需要掌握这17种方法](https://mp.weixin.qq.com/s/hvlr098BxWOf6C8zO0UvYg)
 - **`2017`** [Deep Learning for NLP Best Practices](https://ruder.io/deep-learning-nlp-best-practices/index.html)
 
-## Text First
 
-- [pytorch/text: Data loaders and abstractions for text and NLP](https://github.com/pytorch/text)
-- [tensorflow/text: Making text a first-class citizen in TensorFlow.](https://github.com/tensorflow/text)
-- [textpipe/textpipe: Textpipe: clean and extract metadata from text](https://github.com/textpipe/textpipe)
+## Dataset
 
-## Tokenizer
-
-- [OpenNMT/Tokenizer: Fast and customizable text tokenization library with BPE and SentencePiece support](https://github.com/OpenNMT/Tokenizer)
-- [google/sentencepiece: Unsupervised text tokenizer for Neural Network-based text generation.](https://github.com/google/sentencepiece)
-- [huggingface/tokenizers: 💥Fast State-of-the-Art Tokenizers optimized for Research and Production](https://github.com/huggingface/tokenizers)
-
-## Resource
-
+- [datasets](https://github.com/huggingface/datasets/tree/master/docs)
+- [中文任务基准测评](https://github.com/CLUEbenchmark/CLUE)
+- [中文预训练语料](https://github.com/CLUEbenchmark/CLUECorpus2020)
+- [cluebenchmarks.com/dataSet_search.html](https://www.cluebenchmarks.com/index.html)
 - [离线百度百科下载（2012 图文版）](https://www.pdawiki.com/forum/forum.php?mod=viewthread&tid=9599&highlight=百度百科)
 - [百度百科 2012 图文版](https://pan.baidu.com/s/1epjGg)
 - [最全中华古诗词数据库](https://github.com/chinese-poetry/chinese-poetry)
 - [Kinds of Resources](https://github.com/fighting41love/funNLP)
-- [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)
-- [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)
-- [CLUEbenchmark/CLUE: 中文任务基准测评](https://github.com/CLUEbenchmark/CLUE)
+- [中文历时语料库](https://github.com/liuhuanyong/ChineseDiachronicCorpus)
+- [中文自然语言处理数据集。](https://github.com/InsaneLife/ChineseNLPCorpus)
+
 
 ## Learn Here
 
@@ -187,15 +181,18 @@
 - [OpenNMT/OpenNMT-tf](https://github.com/OpenNMT/OpenNMT-tf)
 - [microsoft/nlp-recipes: Natural Language Processing Best Practices & Examples](https://github.com/microsoft/nlp-recipes)
 
+
 ## Leading Track
 
 - [Google Research](https://github.com/google-research/)
 - [Facebook Research](https://github.com/facebookresearch)
 - [microsoft/unilm: UniLM - Unified Language Model Pre-training / Pre-training for NLP and Beyond](https://github.com/microsoft/unilm)
 
+
 ## Research
 
 - [NLP Progress](https://github.com/sebastianruder/NLP-progress)
+
 
 ## Experts
 
@@ -222,6 +219,3 @@
 - [Slav Petrov - Слав Петров](http://www.petrovi.de/), [Slav Petrov - Google Scholar Citations](https://scholar.google.com/citations?user=ipb9-GEAAAAJ&hl=en) ☆
 - [Kenneth Church HomePage](http://www.cs.jhu.edu/~kchurch/), [Kenneth Ward Church - Google Scholar Citations](https://scholar.google.com/citations?user=E6aqGvYAAAAJ&hl=en)
 
-## References
-
-- [NLP（自然语言处理）界有哪些神级人物？ - 知乎](https://www.zhihu.com/question/32318281)
