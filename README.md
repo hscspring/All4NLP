@@ -185,6 +185,8 @@
 
 ## Leading Track
 
+- [The NLP Index](https://index.quantumstat.com/)
+- [Nature Language Tech | Synced](https://syncedreview.com/category/technology/n-nature-language-tech/)
 - [Google Research](https://github.com/google-research/)
 - [Facebook Research](https://github.com/facebookresearch)
 - [microsoft/unilm: UniLM - Unified Language Model Pre-training / Pre-training for NLP and Beyond](https://github.com/microsoft/unilm)
