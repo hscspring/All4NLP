@@ -187,9 +187,17 @@
 
 - [The NLP Index](https://index.quantumstat.com/)
 - [Nature Language Tech | Synced](https://syncedreview.com/category/technology/n-nature-language-tech/)
+- [Natural Language Processing | Papers With Code](https://paperswithcode.com/area/natural-language-processing/)
+- [机器之心 SOTA](https://www.jiqizhixin.com/sota/tech-fields/8a0ace81-a1e8-44ec-962f-dbe351a26e37)
+- [中文GLUE](https://www.cluebenchmarks.com/index.html)
+- [GLUE Benchmark](https://gluebenchmark.com/tasks)
 - [Google Research](https://github.com/google-research/)
 - [Facebook Research](https://github.com/facebookresearch)
 - [microsoft/unilm: UniLM - Unified Language Model Pre-training / Pre-training for NLP and Beyond](https://github.com/microsoft/unilm)
+- [腾讯技术工程 | 机器之心](https://www.jiqizhixin.com/columns/TEG)
+- [美团技术团队](https://tech.meituan.com/)
+- [pytorch](https://github.com/pytorch)
+- [tensorflow](https://github.com/tensorflow)
 
 
 ## Research
