@@ -104,7 +104,6 @@
 
 - **`2020 Toolkit`** [RUCAIBox/TextBox: TextBox is an open-source library for building text generation system.](https://github.com/RUCAIBox/TextBox)
 - **`2020 Awesome`**  [tokenmill/awesome-nlg: A curated list of resources dedicated to Natural Language Generation (NLG)](https://github.com/tokenmill/awesome-nlg)
-
 - **`2018 BenchMark`** [geek-ai/Texygen: A text generation benchmarking platform](https://github.com/geek-ai/Texygen)
 - **`2018 RNN`** [docs/text_generation.ipynb at master · tensorflow/docs](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/sequences/text_generation.ipynb)
 - **`2019 Tookit on top of TF`** [asyml/texar: Toolkit for Text Generation and Beyond](https://github.com/asyml/texar)
