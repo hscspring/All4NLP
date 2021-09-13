@@ -3,6 +3,7 @@
 
 ## Leading Track
 
+- [卖萌屋学术站](https://arxiv.xixiaoyao.cn/)
 - [The NLP Index](https://index.quantumstat.com/)
 - [Nature Language Tech | Synced](https://syncedreview.com/category/technology/n-nature-language-tech/)
 - [Natural Language Processing | Papers With Code](https://paperswithcode.com/area/natural-language-processing/)
