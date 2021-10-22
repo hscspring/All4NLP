@@ -1,0 +1,9 @@
+pnlp
+pandas
+ahocorasick
+sklearn
+lac
+python-Levenshtein
+
+
+https://www.one-tab.com/page/dy700WjWSd6Cm2AxAOd4iQ
